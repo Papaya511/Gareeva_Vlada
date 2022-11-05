@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WpfAppDemo",
+    "\\WpfAppDemo\\WpfAppDemo",
+    "\\WpfAppDemo\\WpfAppDemo\\bin",
+    "\\WpfAppDemo\\WpfAppDemo\\bin\\Release",
+    "\\WpfAppDemo\\WpfAppDemo\\Connected Services"
   ],
-  "SelectedNode": "\\WpfAppDemo.sln",
+  "SelectedNode": "\\WpfAppDemo\\WpfAppDemo\\Connected Services",
   "PreviewInSolutionExplorer": false
 }
